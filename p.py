@@ -5,3 +5,6 @@ def hello(name):
 
 hello('병철')
 hello('준규')
+
+for i in range (2) :
+    hello('병철')
