@@ -1,6 +1,6 @@
 # print('Hello, 병철!')
 
-def hello():
-    print('Hello, 병철!')
+def hello(name):
+    print(f'Hello, {name}!')
 
-hello()
+hello('병철')
