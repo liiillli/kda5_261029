@@ -3,4 +3,5 @@
 def hello(name):
     print(f'Hello, {name}!')
 
-hello('병철')
+for i in range (2)
+    hello('병철')
